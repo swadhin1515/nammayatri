@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/nammayatri is built on the following main stack:
+
 - [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Ruby](https://www.ruby-lang.org) – Languages
@@ -27,11 +28,13 @@ swadhin1515/nammayatri is built on the following main stack:
 - [Transformers](https://huggingface.co/transformers/) – NLP / Sentiment Analysis
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/nammayatri is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
@@ -57,14 +60,15 @@ swadhin1515/nammayatri is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/12240/no-img.png' alt='Transformers'/> [Transformers](https://huggingface.co/transformers/) – NLP / Sentiment Analysis
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/nammayatri](https://github.com/swadhin1515/nammayatri)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|51<br/>Tools used|11/10/23 <br/>Report generated|
+|53<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -346,9 +350,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -364,10 +368,12 @@ Full tech stack [here](/techstack.md)
 |[babel-loader](https://www.npmjs.com/babel-loader)|v8.0.6|03/15/23|Aryan Chaudhary |MIT|N/A|
 |[core-js](https://www.npmjs.com/core-js)|v2.6.11|03/15/23|Aryan Chaudhary |MIT|N/A|
 |[cz-conventional-changelog](https://www.npmjs.com/cz-conventional-changelog)|v3.3.0|07/29/23|Ashish Singh |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|03/15/23|Aryan Chaudhary |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.27.0|07/26/23|VIGNESH S |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[node-notifier](https://www.npmjs.com/node-notifier)|v10.0.1|03/15/23|Aryan Chaudhary |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|09/01/23|Aryan Chaudhary |MIT|N/A|
 |[regenerator-runtime](https://www.npmjs.com/regenerator-runtime)|v0.13.5|09/01/23|Aryan Chaudhary |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v19.0.5|03/15/23|Aryan Chaudhary |MIT|N/A|
 |[uglify-js](https://www.npmjs.com/uglify-js)|v3.17.4|07/29/23|Ashish Singh |BSD-2-Clause|N/A|
 |[webpack-cli](https://www.npmjs.com/webpack-cli)|v3.3.10|07/29/23|Ashish Singh |MIT|N/A|
 |[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.10.1|07/29/23|Ashish Singh |MIT|N/A|
@@ -376,4 +382,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
