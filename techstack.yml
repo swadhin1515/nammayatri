@@ -2,7 +2,7 @@ repo_name: swadhin1515/nammayatri
 report_id: 03d9091b0c6ce20d284ffb23d86754d9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:59:17+00:00'
+timestamp: '2024-02-29T18:29:15+00:00'
 requested_by: Anuragini-2506
 provider: github
 branch: main
@@ -187,7 +187,7 @@ tools:
   last_updated_by: Nikith Shetty
   last_updated_on: 2023-02-14 09:56:26.000000000 Z
 - name: Nix
-  description: 'A package manager for Linux and other Unix systems '
+  description: A package manager for Linux and other Unix systems
   website_url: http://nixos.org/nix
   license: LGPL-2.1
   open_source: true
